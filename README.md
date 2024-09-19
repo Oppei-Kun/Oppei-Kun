@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Oppei-Kun
 - 👀 I’m interested in Anime, Gaming, Reading and Sports.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and React.
+- 🌱 I’m currently doing JAVASCRIPT and React.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me my email goteng8681@gmail.com
 - 😄 Pronouns: I'm a male.
-- ⚡ Fun fact: I'm 16 :)
+- ⚡ Fun fact: I'm 17 :)
 
 <!---
 Oppei-Kun/Oppei-Kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
